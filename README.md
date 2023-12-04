@@ -129,20 +129,19 @@ output r2 as u32.private;
 
 #### 3- Private Key alanına Leo cüzdan private keyinizi yazın
 #### 4- Estimate Fee butonuna basın güncel fee oranını otamatik yazacak tahmini 1.811 olacak
-#### 5- Estimate Fee butonuna basın güncel fee oranını otamatik yazacak tahmini 1.811 olacak
-#### 6- Private Fee butonunu deaktif edin
+#### 5- Private Fee butonunu deaktif edin
 
 ![image](https://github.com/HerculesNode/Aleo-Contract-Deploy/assets/101635385/b904dfb4-385a-4558-9343-e26fa671e5dc)
 
 
 
 
-#### 7- Fee geldikten sonra Deploy tuşuna basın ve aşağıdaki gibi bir Onay alacaksınız 
+#### 6- Fee geldikten sonra Deploy tuşuna basın ve aşağıdaki gibi bir Onay alacaksınız 
 
 ![image](https://github.com/HerculesNode/Aleo-Contract-Deploy/assets/101635385/24d3c6c6-a478-4df1-92b2-e4b5ce6d5ecf)
 
 
-#### 8- tx id kopyalayın buradaki adresin sonuna ekleyin ve kontrol edin https://explorer.aleo.org/transaction/
+#### 7- tx id kopyalayın buradaki adresin sonuna ekleyin ve kontrol edin https://explorer.aleo.org/transaction/
 
 
 ![image](https://github.com/HerculesNode/Aleo-Contract-Deploy/assets/101635385/b3436409-3cca-4061-bbaf-7fe542c87317)

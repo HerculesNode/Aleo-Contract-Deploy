@@ -6,7 +6,7 @@ Bu rehberde Aleo ile sözleşme etkileşimine girmeyi anlatacağım
  ### Linkler
  * [Hercules Telegram](https://t.me/HerculesNode)
  * [Hercules Twitter](https://twitter.com/HerculesNode)
- * [Aleo Dc](https://discord.gg/aleohq)
+   
 
 
 ## 🟢 Sistem Güncelleme
